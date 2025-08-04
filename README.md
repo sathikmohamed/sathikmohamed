@@ -17,7 +17,7 @@
 `Python` `Java` `SQL` `MasterCAM` `Creo`
 
 **Data Science & ML**:  
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras` `NLP` `TextBlob`
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras` `NLP` `Deep Learning` `RAG` `Fine Tuning`
 
 **Visualization Tools**:  
 `Power BI` `Matplotlib` `Seaborn` `Excel` `Tableau`
