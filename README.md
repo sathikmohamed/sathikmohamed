@@ -71,9 +71,10 @@
 ## 🎨 Custom Banner
 
 > 
-```html
+<p align="center">
 <img src="https://github.com/sathikmohamed/sathikmohamed/blob/main/Brown%20and%20White%20Simple%20Personal%20LinkedIn%20Banner.png" alt="Custom Banner" width="100%">
-```
+</p>
+---
 ### 📈 GitHub Stats
 
 <p align="center">
