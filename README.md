@@ -73,9 +73,9 @@
 > 
 ```html
 <img src="https://github.com/sathikmohamed/sathikmohamed/blob/main/Brown%20and%20White%20Simple%20Personal%20LinkedIn%20Banner.png" alt="Custom Banner" width="100%">
-
+```
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=dracula&include_all_commits=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathikmohamed&layout=compact&theme=dracula&include_all_commits=true" width="48%" /> </p>
+```<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=dracula&include_all_commits=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathikmohamed&layout=compact&theme=dracula&include_all_commits=true" width="48%" /> </p>```
 
 🌐 Connect with Me
 💻 GitHub  [GitHub](https://github.com/sathikmohamed)  
@@ -88,7 +88,7 @@
 🎵 Music keeps me motivated during late-night coding sessions.
 
 👀 Visitor Count
-<img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20views&color=brightgreen&style=flat-square"
+```<img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20views&color=brightgreen&style=flat-square"```
 
 
 
