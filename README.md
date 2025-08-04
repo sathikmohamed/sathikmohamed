@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently learning **Advanced Data Science & AI @ Learnbay, Bangalore**
-- 💼 Former Assistant Manager, **Royal Enfield** (2017–2024)
+- 💼 Former Assistant Manager, **Royal Enfield** (2019–2024)
 - 🤖 Passionate about **Machine Learning, Data Analytics, and Visualization**
 - 🧠 Recently completed virtual internships in **ML & Predictive Modeling** (HCL, NIELIT, Tata Forage)
 - 📫 How to reach me: **sathikmohamed1993@gmail.com**
