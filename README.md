@@ -31,6 +31,8 @@ Problem-solving • Team Collaboration • Communication
 ---
 
 ### 📊 Projects
+**📊 ML Projects**  
+  → View: [GitHub Projects](https://github.com/sathikmohamed/ML_Projects)
 
 1. **🔌 Predictive Maintenance with Sensor Data**  
    Detected machine failures using sensor data (vibration, temp, current).  
