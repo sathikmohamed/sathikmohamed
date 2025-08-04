@@ -1,16 +1,13 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Former Assistant Manager at Royal Enfield</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | 
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently learning **Advanced Data Science & AI @ Learnbay, Bangalore**
-- 💼 Former Assistant Manager, **Royal Enfield** (2019–2024)
 - 🤖 Passionate about **Machine Learning, Data Analytics, and Visualization**
 - 🧠 Recently completed virtual internships in **ML & Predictive Modeling** (HCL, NIELIT, Tata Forage)
-- 📫 How to reach me: **sathikmohamed1993@gmail.com**
 
 ---
 
@@ -75,8 +72,8 @@ Problem-solving • Team Collaboration • Communication
 ### 🔗 Connect with Me
 
 - 🌐 [GitHub](https://github.com/sathikmohamed)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-sathik-133793298/)  
-- 📧 sathikmohamed1993@gmail.com  
+-  🌐 [Leetcode](https://leetcode.com/u/sathikmohamed/)
+
 
 ---
 
