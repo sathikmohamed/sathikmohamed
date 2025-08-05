@@ -25,6 +25,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          publish_dir: dist
+          build_dir: dist    # <-- correct input name is build_dir
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
