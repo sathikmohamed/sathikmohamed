@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sathikmohamed/sathikmohamed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-<img src="https://github.com/sathikmohamed/sathikmohamed/blob/main/Brown%20and%20White%20Simple%20Personal%20LinkedIn%20Banner.png" alt="Custom Banner" width="100%">
-</p>
 ---
 <h1 align="center">Hi there! 👋 I'm Mohamed Sathik</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
