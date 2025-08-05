@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/sathikmohamed/sathikmohamed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-> 
 <p align="center">
 <img src="https://github.com/sathikmohamed/sathikmohamed/blob/main/Brown%20and%20White%20Simple%20Personal%20LinkedIn%20Banner.png" alt="Custom Banner" width="100%">
 </p>
