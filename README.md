@@ -47,18 +47,6 @@
 ### 📊 Machine Learning Projects
   → View: [GitHub Projects](https://github.com/sathikmohamed/ML_Projects)
 
-🔌 **Predictive Maintenance with Sensor Data**  
-📌 Detected machine failures using sensor data (vibration, temperature, current)  
-🏆 Achieved 60.3% precision with classification techniques  
-
-🎬 **Rotten Tomatoes Audience Rating Prediction**  
-📌 Built a regression + NLP model using reviews, metadata, and sentiments  
-📈 Achieved 76.3% R² score  
-
-🏠 **Energy & Water Usage Estimation**  
-📌 Estimated household consumption using demographic data  
-✅ Accuracy: 82%
-
 ---
 
 ### 📈 Power BI Dashboards
