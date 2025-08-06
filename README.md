@@ -16,7 +16,6 @@
 ## 🌟 About Me
 
 - 🤖 Passionate about **Machine Learning, Data Analytics**, and **Data Visualization**
-- 🧠 Experience: Virtual internships in ML & Predictive Modeling (HCL, NIELIT, Tata Forage)
 - 🎯 Goal: Leverage analytical skills to solve real-world problems and drive data-informed decisions
 - 🌍 Location: India
 
@@ -56,14 +55,6 @@
 
 ---
 
-## 🎓 Certifications
-
-- 📜 IBM Machine Learning with Python – Coursera  
-- 📜 Google Data Analytics – Coursera  
-- 📜 AI & ML – NIELIT  
-- 📜 Business Analytics – TN Skill Development  
-- 📜 Advanced Data Science & AI – LearnBay, Bengaluru
-
 ---
 
 ### 📈 GitHub Stats
@@ -80,10 +71,6 @@
 
 🧩 LeetCode [Leetcode](https://leetcode.com/u/sathikmohamed/)
 
-🎉 Fun Facts
-⚡ I enjoy solving complex puzzles in my free time!
-
-🎵 Music keeps me motivated during late-night coding sessions.
 
 👀 Visitor Count
 <p align="center">
