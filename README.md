@@ -19,7 +19,7 @@
 
 > 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdkbmFtZTRrOGRwN3F6dms1cXNoN2p5MHZteTNtdzloNGRzYXdvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Custom Banner" width="100%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFxeGYyMWhmamZyNmx2aDZ3aG5sY2Z6Z3BwajVnamNlM3k0cW1nNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Custom Banner" width="480px">
 </p>
 ---
 
