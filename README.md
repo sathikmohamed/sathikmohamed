@@ -40,7 +40,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 💻 Skills
+### 💻 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-95%25-green?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ML-90%25-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -57,9 +57,6 @@
 ### 📊 Machine Learning Projects
 🔗 [View on GitHub](https://github.com/sathikmohamed/ML_Projects)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
 
 ### 📈 Power BI Dashboards
 📌 Designed 7+ dashboards for sales trends, customer segmentation, KPI drilldowns  
