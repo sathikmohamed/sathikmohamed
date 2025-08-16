@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Welcome+To+My+Profile!" alt="Typing SVG" /></a>
-<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4xZXZpbnMyYWxtcXplcDVkd29ramdlZ3Z6MjZ6aW1pdzU0OHEwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qF1gI7mhLhnQunST3z/giphy.gif"/>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Welcome+To+My+Profile!" alt="Typing SVG" /></a>
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Sathik" alt="Typing SVG" /></a>  </h1>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=800&lines=Aspiring+Data+Scientist+%7C+Machine+Learning+Enthusiast+%7C+Innovator" alt="Typing SVG" /></a></h1>
 
