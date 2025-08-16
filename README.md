@@ -11,7 +11,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=800&lines=Aspiring+Data+Scientist+%7C+Machine+Learning+Enthusiast+%7C+Innovator" alt="Typing SVG" /></a></h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZnOWZ6OWIzZ243cG5sN2IxbHRkbmswejEwdml3cm8xdnIxcHdxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="250px" alt="Banner 2"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZlOHluN2FxZHg1c2FxcmIxMWwzb3l3YnFlaTd0azljZW95MGF3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/andIMOOOmB5lTo4XiD/giphy.gif" width="650px" alt="Banner 2"/>
 </p>
 
 <p align="center">
