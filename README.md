@@ -114,10 +114,6 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Thank You for Visiting" width="400px"/>
-</p>
-
-<p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Thank+You+for+Visiting" alt="Typing SVG" /></a>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZqdHgyMWNiZjV2c2h0OXprNjVma25wOHp3MjMxbTVjYzllcmg0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eRIcpTwCBg70tIFODa/giphy.gif"/>
 </p>
