@@ -90,8 +90,9 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>
 </p>
-<img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=onedark&margin-w=10&no-frame=true"/>
