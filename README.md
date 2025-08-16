@@ -67,11 +67,11 @@
 ---
 
 ### 🎯 Dynamic Profile Stats
+### 🎯 Dynamic Profile Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-contributor-stats.vercel.app/api?username=sathikmohamedE&limit=5&theme=dark&combine_all_yearly_contributions=true"/></a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=sathikmohamedE&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
----
 
 ---
 
