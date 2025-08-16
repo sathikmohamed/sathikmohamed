@@ -66,13 +66,6 @@
 
 ---
 
-### 🎯 Dynamic Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -92,6 +85,85 @@
   <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="sathikmohamed" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/sathikmohamed">
+    <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="sathikmohamed" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFxeGYyMWhmamZyNmx2aDZ3aG5sY2Z6Z3BwajVnamNlM3k0cW1nNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Custom Banner" width="400px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pmY3BrMnpzazN4ZWsyeTA2cjNveHRhaTk2cDVhY3d6ZXpvNDVndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif" alt="Custom Banner" width="400px">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="Hand wave"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
+
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sathikmohamed/sathikmohamed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🤖 Passionate about **Machine Learning, Data Analytics**, and **Data Visualization**
+- 🎯 Goal: Leverage analytical skills to solve real-world problems and drive data-informed decisions
+- 🌍 Location: India
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,java,html,css,mysql,postgres,git,github,docker,linux,vscode,figma&theme=light" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📊 Machine Learning Projects
+→ View: [GitHub Projects](https://github.com/sathikmohamed/ML_Projects)
+
+### 📈 Power BI Dashboards
+📌 Designed 7+ dashboards for sales trends, customer segmentation, KPI drilldowns
+🔗 [View Dashboards](https://github.com/sathikmohamed/data-visualization-dashboards)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sathikmohamed&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathikmohamed&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Graphs
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathikmohamed&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/sathikmohamed">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/tarhakousar">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/sathikmohamed/">
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" alt="LeetCode"/>
+  </a>
+</p>
 
 
