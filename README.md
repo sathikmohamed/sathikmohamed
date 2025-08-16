@@ -8,7 +8,7 @@
 
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Sathik" alt="Typing SVG" /></a>  </h1>
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Aspiring+Data+Scientist+%7C+Machine+Learning+Enthusiast+%7C+Innovator" alt="Typing SVG" /></a></h3>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Aspiring+Data+Scientist+%7C+Machine+Learning+Enthusiast+%7C+Innovator" alt="Typing SVG" /></a></h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFxeGYyMWhmamZyNmx2aDZ3aG5sY2Z6Z3BwajVnamNlM3k0cW1nNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="350px" alt="Banner 1"/>
