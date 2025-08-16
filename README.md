@@ -1,6 +1,9 @@
----
 <h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
----
+
+<!-- Simple hand wave GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="Hand wave"/>
+</p>
 
 > 
 <p align="center">
