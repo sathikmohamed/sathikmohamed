@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Welcome+To+My+Profile!" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -109,10 +112,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Thank You for Visiting" width="400px"/>
@@ -121,5 +120,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZqdHgyMWNiZjV2c2h0OXprNjVma25wOHp3MjMxbTVjYzllcmg0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eRIcpTwCBg70tIFODa/giphy.gif"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+For+Visiting" alt="Typing SVG" /></a>
 </p>
