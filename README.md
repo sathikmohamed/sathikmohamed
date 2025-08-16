@@ -3,18 +3,6 @@
 </p>
 ---
 <h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
-
-<p align="center">
-  <!-- AI head with circuitry -->
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="240px" alt="AI head with circuits"/>
-  <!-- Digital brain / neural connections -->
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTMgMn/giphy.gif" width="240px" alt="Neural network brain"/>
-  <!-- Code & data stream (computer graphics) -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240px" alt="Code rain data stream"/>
-</p>
-
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
-
 ---
 
 > 
@@ -24,6 +12,12 @@
   
 </p>
 ---
+
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sathikmohamed/sathikmohamed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 🌟 About Me
 
@@ -36,28 +30,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,java,html,css,mysql,postgres,git,github,docker,linux,vscode,figma&theme=light" />
 </p>
-
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages  
-`Python` • `Java` • `SQL` • `MasterCAM` • `Creo`
-
-### 📊 Data Science & ML  
-`Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `Keras`  
-🧠 `NLP` • `Deep Learning` • `RAG` • `Fine Tuning`
-
-### 📈 Visualization Tools  
-`Power BI` • `Matplotlib` • `Seaborn` • `Excel` • `Tableau`
-
-### 🗃️ Databases  
-`MySQL` • `MongoDB`
-
-### 🧠 Soft Skills  
-✅ Problem-solving • 🤝 Team Collaboration • 🗣️ Effective Communication
-
 ---
-
 ## 🚀 Projects
 
 ### 📊 Machine Learning Projects
