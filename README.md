@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6hZ1VbP4H7l9i/giphy.gif" width="600px" alt="Animated Dots Divider"/>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600px" alt="Cat Divider"/>
 </p>
 
