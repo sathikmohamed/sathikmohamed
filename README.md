@@ -22,7 +22,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 🌟 About Me
+### 🌟 About Me
 - 🤖 Passionate about **Machine Learning, Data Analytics**, and **Data Visualization**  
 - 🎯 Goal: Solve real-world problems using data-driven solutions  
 - 🌍 Location: India  
