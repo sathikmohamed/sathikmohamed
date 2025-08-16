@@ -38,7 +38,6 @@
 <p align="center">
   <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat-square" alt="ChatGPT"/></a>
   <a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-4285F4?logo=google&logoColor=white&style=flat-square" alt="Bard"/></a>
-  <img src="https://skillicons.dev/icons?i=huggingface&theme=dark" alt="Hugging Face"/>
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI"/></a>
   <a href="https://www.dalle.com/"><img src="https://img.shields.io/badge/DALL·E-00A884?logo=artstation&logoColor=white&style=flat-square" alt="DALL·E"/></a>
 </p>
