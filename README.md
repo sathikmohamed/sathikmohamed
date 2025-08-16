@@ -44,7 +44,18 @@
 🔗 [View Dashboards](https://github.com/sathikmohamed/data-visualization-dashboards)
 
 ---
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
 ---
 
 ### 📈 GitHub Stats
