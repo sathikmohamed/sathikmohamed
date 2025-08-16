@@ -6,9 +6,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4xZXZpbnMyYWxtcXplcDVkd29ramdlZ3Z6MjZ6aW1pdzU0OHEwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qF1gI7mhLhnQunST3z/giphy.gif"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="Hand wave"/>
-</p>
 
 <h1 align="center"> Hi 👋, I'm Mohamed Sathik</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
