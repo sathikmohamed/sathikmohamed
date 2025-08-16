@@ -5,9 +5,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="400px"/>
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400px"/>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400px"/>
+  <!-- AI head with circuitry -->
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="240px" alt="AI head with circuits"/>
+  <!-- Digital brain / neural connections -->
+  <img src="https://media.giphy.com/media/5ndklThG9vUUdTMgMn/giphy.gif" width="240px" alt="Neural network brain"/>
+  <!-- Code & data stream (computer graphics) -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240px" alt="Code rain data stream"/>
 </p>
 
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
