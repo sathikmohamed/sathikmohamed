@@ -19,7 +19,7 @@
 
 > 
 <p align="center">
-<img src="https://github.com/sathikmohamed/sathikmohamed/blob/main/Brown%20and%20White%20Simple%20Personal%20LinkedIn%20Banner.png" alt="Custom Banner" width="100%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdkbmFtZTRrOGRwN3F6dms1cXNoN2p5MHZteTNtdzloNGRzYXdvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Custom Banner" width="100%">
 </p>
 ---
 
