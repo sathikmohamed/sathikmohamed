@@ -73,6 +73,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=radical&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sathikmohamed&theme=radical" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathikmohamed&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>
 </p>
 
 <p align="center">
@@ -116,5 +117,4 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Thank+You+for+Visiting" alt="Typing SVG" /></a>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dsMDV6bXlvOWp0NzRpeDdiNTFwaGp6YWR5dTc2dWtwNWwxbGp5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif"/>
 </p>
-<img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom header"/>
