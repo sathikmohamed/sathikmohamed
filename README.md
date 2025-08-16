@@ -27,41 +27,11 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,java,html,css,mysql,postgres,git,github,docker,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,java,html,css,mysql,mongodb,postgres,git,github,docker,linux,vscode,figma,googlecloud,aws,anaconda&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming Languages"/>
-</p>
-
-### Libraries & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,nltk,flask&theme=dark" alt="Libraries & Frameworks"/>
-</p>
-
-### Data Visualization Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel&theme=dark" alt="Data Visualization Tools"/>
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
-</p>
-
-### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=googlecloud,aws&theme=dark" alt="Cloud & DevOps"/>
-</p>
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,canvas&theme=dark" alt="Tools & Platforms"/>
 </p>
 
 ### AI Tools
