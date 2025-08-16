@@ -68,8 +68,8 @@
 
 ### 🎯 Dynamic Profile Stats
 <p align="center">
-  <!-- GitHub Metrics widget -->
-  <img src="https://metrics.lecoq.io/sathikmohamed?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&stars=1&topics=1&followup=1&lines=1&habits=1&introduction=1&achievements=1&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics"/>
+  <!-- An alternative reliable stats widget -->
+  <img src="https://stats.quine.sh/sathikmohamed/github?theme=dark" alt="GitHub Stats by Quine"/>
 </p>
 
 
