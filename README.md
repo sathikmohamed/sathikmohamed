@@ -112,3 +112,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dsMDV6bXlvOWp0NzRpeDdiNTFwaGp6YWR5dTc2dWtwNWwxbGp5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif"/>
 </p>
 <img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>****
+<p align="center">
+  <img src="https://metrics.lecoq.io/sathikmohamed?template=classic&base=header%2Cactivity%2Crepositories&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata" alt="Metrics"/>
+</p>
