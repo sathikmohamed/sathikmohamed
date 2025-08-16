@@ -99,9 +99,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlRN7zRHqQl9kNi/giphy.gif" width="400px" alt="Data Visualization Animation"/>
-</p>
 
 
 <p align="center">
