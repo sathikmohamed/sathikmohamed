@@ -31,7 +31,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,java,html,css,mysql,postgres,git,github,docker,linux,vscode,figma&theme=light" />
 </p>
@@ -52,7 +52,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 🚀 Projects
+### 🚀 Projects
 
 ### 📊 Machine Learning Projects
 🔗 [View on GitHub](https://github.com/sathikmohamed/ML_Projects)
@@ -69,7 +69,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=radical&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sathikmohamed&theme=radical" />
@@ -80,7 +80,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathikmohamed&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathikmohamed&theme=radical" />
@@ -93,7 +93,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=onedark&margin-w=10&no-frame=true"/>
 </p>
@@ -102,7 +102,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/sathikmohamed"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/sathikmohamed/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode"/></a>
