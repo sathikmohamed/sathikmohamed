@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6hZ1VbP4H7l9i/giphy.gif" width="600px" alt="Animated Dots Divider"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN281eHI5NW15NDlkcTg3dXFvdmkyYzJ0cjRhcDhwajBvazhzbTFuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAM1sOA4pKGuzKlIPt/giphy.gif" width="600px" alt="Animated Dots Divider"/>
 </p>
 
 <p align="center">
