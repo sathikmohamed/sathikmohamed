@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sathikmohamed/sathikmohamed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 ---
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
