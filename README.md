@@ -75,25 +75,11 @@
 </p>
 
 ---
-
-## 🌐 Connect with Me
-
-💻 [GitHub](https://github.com/sathikmohamed)  
-🧩 [LeetCode](https://leetcode.com/u/sathikmohamed/)  
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/sathikmohamed"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/sathikmohamed/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode"/></a>
-  <a href="https://linkedin.com/in/sathikmohamed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
 </p>
 
 ---
