@@ -35,7 +35,7 @@
 </p>
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming Languages"/>
 </p>
 
 ### Libraries & Frameworks
@@ -46,7 +46,6 @@
 ### Data Visualization Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=powerbi,tableau&theme=dark" alt="Data Visualization Tools"/>
-  <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white&style=flat-square" alt="Looker Studio"/></a>
   <img src="https://skillicons.dev/icons?i=excel&theme=dark" alt="Excel"/>
 </p>
 
@@ -57,12 +56,12 @@
 
 ### Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,googlecloud,openstack&theme=dark" alt="Cloud & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=googlecloud,aws&theme=dark" alt="Cloud & DevOps"/>
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,canvas,figma,arduino&theme=dark" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,canvas&theme=dark" alt="Tools & Platforms"/>
 </p>
 
 ### AI Tools
