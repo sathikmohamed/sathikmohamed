@@ -11,8 +11,8 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=800&lines=Aspiring+Data+Scientist+%7C+Machine+Learning+Enthusiast+%7C+Innovator" alt="Typing SVG" /></a></h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZlOHluN2FxZHg1c2FxcmIxMWwzb3l3YnFlaTd0azljZW95MGF3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/andIMOOOmB5lTo4XiD/giphy.gif" width="450px" alt="Banner 1"/>
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNrOGptZHBmYml2NTk0M242bTFsdTFraDFxN3F2bWFoNnlxYmtzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KeQf3wNoXaft4IhWcW/giphy.gif" width="450px" alt="Banner 2"/>
+
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNrOGptZHBmYml2NTk0M242bTFsdTFraDFxN3F2bWFoNnlxYmtzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KeQf3wNoXaft4IhWcW/giphy.gif" width="350px" alt="Banner 2"/>
 </p>
 
 <p align="center">
