@@ -122,12 +122,3 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dsMDV6bXlvOWp0NzRpeDdiNTFwaGp6YWR5dTc2dWtwNWwxbGp5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif"/>
 </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom header"/>
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sathikmohamed/sathikmohamed/main/profile-views.svg" alt="Mohamed Sathik's Profile Views" width="400px"/>
-</p>
-
-<p align="center">
-  <em>Track my profile visits with a custom view counter! Last visit updates dynamically.</em>
-</p>
