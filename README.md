@@ -67,9 +67,9 @@
 ---
 
 ### 🎯 Dynamic Profile Stats
-### 🎯 Dynamic Profile Stats
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sathikmohamedE&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+  <!-- GitHub Metrics widget -->
+  <img src="https://metrics.lecoq.io/sathikmohamed?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&stars=1&topics=1&followup=1&lines=1&habits=1&introduction=1&achievements=1&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics"/>
 </p>
 
 
