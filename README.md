@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="Hand wave"/>
 </p>
 
-<h1 align="center">### Hi 👋, I'm Mohamed Sathik</h1>
+<h1 align="center"> Hi 👋, I'm Mohamed Sathik</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
 
 <p align="center">
