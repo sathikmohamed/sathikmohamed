@@ -73,7 +73,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=radical&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sathikmohamed&theme=radical" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathikmohamed&layout=compact&theme=radical" />
-  <img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>
 </p>
 
 <p align="center">
@@ -92,7 +91,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
-
+<img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=onedark&margin-w=10&no-frame=true"/>
