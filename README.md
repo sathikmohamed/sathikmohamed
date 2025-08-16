@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-### 🌟 About Me
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=About+Me" alt="Typing SVG" /></a>
 - 🤖 Passionate about **Machine Learning**, **Data Analytics**, and **Interactive Visualizations**
 - 🎯 Goal: Harness data to solve real-world challenges and drive impactful decisions
 - 🌍 Location: India
@@ -22,7 +22,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-### 🛠 Tech Stack
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,java,html,css,mysql,mongodb,postgres,git,github,docker,linux,vscode,figma,googlecloud,aws,anaconda&theme=dark" />
 </p>
@@ -31,7 +32,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-### AI Tools
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=AI+Tools" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat-square" alt="ChatGPT"/></a>
   <a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-4285F4?logo=google&logoColor=white&style=flat-square" alt="Bard"/></a>
@@ -39,7 +40,7 @@
   <a href="https://www.dalle.com/"><img src="https://img.shields.io/badge/DALL·E-00A884?logo=artstation&logoColor=white&style=flat-square" alt="DALL·E"/></a>
 </p>
 
-### 💻 Skills
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Skills" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-95%25-green?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ML-90%25-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -51,7 +52,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-### 🚀 Projects
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Projects" alt="Typing SVG" /></a>
 
 ### 📊 Machine Learning Projects
 🔗 [View on GitHub](https://github.com/sathikmohamed/ML_Projects)
@@ -65,7 +66,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-### 📊 GitHub Stats
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=GitHub+Stats" alt="Typing SVG" /></a>
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=radical&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sathikmohamed&theme=radical" />
@@ -76,7 +77,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-### 📈 Contribution Graph
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Contribution+Graph" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathikmohamed&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathikmohamed&theme=radical" />
@@ -90,7 +91,7 @@
   <img src="https://img.shields.io/github/stars/sathikmohamed/ML_Projects?style=flat-square&color=ffcb6b" alt="ML Projects Stars"/>
 </p>
 
-### 🏆 GitHub Trophies
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=GitHub+Trophies" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies"/>
@@ -102,7 +103,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
-### 🌐 Connect with Me
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Connect+With+Me" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://github.com/sathikmohamed"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/sathikmohamed/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode"/></a>
