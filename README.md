@@ -11,7 +11,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pmY3BrMnpzazN4ZWsyeTA2cjNveHRhaTk2cDVhY3d6ZXpvNDVndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif" width="350px" alt="Banner 2">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-## 🌟 About Me
+###  🌟 About Me
 
 - 🤖 Passionate about **Machine Learning, Data Analytics**, and **Data Visualization**  
 - 🎯 Goal: Solve real-world problems using data-driven solutions  
@@ -33,7 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🚀 Projects
+### 🚀 Projects
 
 ### 📊 Machine Learning Projects
 🔗 [View on GitHub](https://github.com/sathikmohamed/ML_Projects)
@@ -44,7 +44,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=radical&count_private=true" />
@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathikmohamed&theme=radical" />
@@ -73,13 +73,13 @@
 
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
   <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=onedark&margin-w=10&no-frame=true"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 
   <a href="https://github.com/sathikmohamed"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
@@ -87,7 +87,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 👀 Visitor Count
+### 👀 Visitor Count
 
 
   <img src="https://komarev.com/ghpvc/?username=sathikmohamed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
