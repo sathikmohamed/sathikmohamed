@@ -182,5 +182,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-Enjoy%20exploring%20my%20work-blue?style=flat-square" alt="Thanks"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Thank You for Visiting" width="400px"/>
 </p>
+
+
