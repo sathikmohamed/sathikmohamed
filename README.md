@@ -32,6 +32,11 @@
 - 🌍 Location: India
 
 ---
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,java,cpp,js,html,css,mysql,postgres,git,github,docker,linux,vscode,figma&theme=light" />
+</p>
+
 
 ## 🛠️ Tech Stack & Tools
 
