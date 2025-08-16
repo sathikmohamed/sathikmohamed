@@ -72,14 +72,6 @@
 
 ---
 
-### 🖼 ML/AI Visuals
-<p align="center">
-  <!-- Brain‑computer interface style animation -->
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="360px" alt="Brain computer interface"/>
-  <!-- Data tunnel / cyberspace visualization -->
-  <img src="https://media.giphy.com/media/3o6fJ1BM7rG7jH3bC0/giphy.gif" width="360px" alt="Data tunnel"/>
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
