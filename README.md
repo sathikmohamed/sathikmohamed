@@ -17,9 +17,10 @@
 </p>
 
 ### 🌟 About Me
-- 🤖 Passionate about **Machine Learning, Data Analytics**, and **Data Visualization**  
-- 🎯 Goal: Solve real-world problems using data-driven solutions  
-- 🌍 Location: India  
+- 🤖 Passionate about **Machine Learning**, **Data Analytics**, and **Interactive Visualizations**
+- 🎯 Goal: Harness data to solve real-world challenges and drive impactful decisions
+- 🌍 Location: India
+- 📚 Currently exploring: Advanced NLP, Deep Learning, and Cloud-based ML pipelines
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
