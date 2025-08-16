@@ -65,6 +65,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathikmohamed&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathikmohamed&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sathikmohamed/sathikmohamed/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
