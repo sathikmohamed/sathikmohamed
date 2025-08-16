@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN281eHI5NW15NDlkcTg3dXFvdmkyYzJ0cjRhcDhwajBvazhzbTFuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAM1sOA4pKGuzKlIPt/giphy.gif" width="1080px" alt="Animated Dots Divider"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600px" alt="Cat Divider"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="Hand wave"/>
@@ -12,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
----
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Innovator</h3>
 
 <p align="center">
