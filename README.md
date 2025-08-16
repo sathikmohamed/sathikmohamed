@@ -105,7 +105,6 @@
 
 
 <p align="center">
-  <em>Showcasing my coding achievements with a dynamic trophy collection! Hover over each trophy to see details.</em>
 </p>
 ### 🌐 Connect with Me
 <p align="center">
