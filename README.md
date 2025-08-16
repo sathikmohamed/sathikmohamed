@@ -33,6 +33,46 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js&theme=dark" alt="Programming Languages"/>
+</p>
+
+### Libraries & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,nltk,flask&theme=dark" alt="Libraries & Frameworks"/>
+</p>
+
+### Data Visualization Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau&theme=dark" alt="Data Visualization Tools"/>
+  <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white&style=flat-square" alt="Looker Studio"/></a>
+  <img src="https://skillicons.dev/icons?i=excel&theme=dark" alt="Excel"/>
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
+</p>
+
+### Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,googlecloud,openstack&theme=dark" alt="Cloud & DevOps"/>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,canvas,figma,arduino&theme=dark" alt="Tools & Platforms"/>
+</p>
+
+### AI Tools
+<p align="center">
+  <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat-square" alt="ChatGPT"/></a>
+  <a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-4285F4?logo=google&logoColor=white&style=flat-square" alt="Bard"/></a>
+  <img src="https://skillicons.dev/icons?i=huggingface&theme=dark" alt="Hugging Face"/>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI"/></a>
+  <a href="https://www.dalle.com/"><img src="https://img.shields.io/badge/DALL·E-00A884?logo=artstation&logoColor=white&style=flat-square" alt="DALL·E"/></a>
+</p>
 
 ### 💻 Skills
 <p align="center">
