@@ -67,11 +67,10 @@
 ---
 
 ### 🎯 Dynamic Profile Stats
-<p align="center">
-  <!-- An alternative reliable stats widget -->
-  <img src="https://stats.quine.sh/sathikmohamed/github?theme=dark" alt="GitHub Stats by Quine"/>
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
 
 ---
 
