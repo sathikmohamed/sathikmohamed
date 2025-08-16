@@ -1,10 +1,11 @@
+---
 <h1 align="center">Hi 👋, I'm Mohamed Sathik</h1>
 
 <!-- Simple hand wave GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="Hand wave"/>
 </p>
-
+---
 > 
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFxeGYyMWhmamZyNmx2aDZ3aG5sY2Z6Z3BwajVnamNlM3k0cW1nNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Custom Banner" width="350px">
@@ -56,13 +57,34 @@
 </p>
 
 ---
+
+### 📈 Contribution Graphs
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathikmohamed&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" />
+</p>
+
 ---
 
-### 📈 GitHub Stats
-
+### 🎯 Dynamic Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathikmohamed&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathikmohamed&layout=compact&theme=radical" width="48%" />
+  <a href="https://git.io/streak-stats"><img src="https://github-contributor-stats.vercel.app/api?username=sathikmohamedE&limit=5&theme=dark&combine_all_yearly_contributions=true"/></a>
+</p>
+
+---
+
+### 🖼 ML/AI Visuals
+<p align="center">
+  <!-- Brain‑computer interface style animation -->
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="360px" alt="Brain computer interface"/>
+  <!-- Data tunnel / cyberspace visualization -->
+  <img src="https://media.giphy.com/media/3o6fJ1BM7rG7jH3bC0/giphy.gif" width="360px" alt="Data tunnel"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sathikmohamed&theme=onedark&margin-w=10&no-frame=true"/>
 </p>
 
 ---
